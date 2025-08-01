@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola,Soy sergio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, soy Sergio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 
 <p align="center">
@@ -12,21 +12,28 @@
   <a href="https://www.instagram.com/sjvr10/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  
 </p>
 <p align="center">
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
   
 <h2 align="center" style="margin: 10px;">A cerca de mi </h2>
-👋 ¡Hola! Soy Sergio, estudiante de Ingeniería en Informática.
 
-💻 Me apasiona la programación, el desarrollo de aplicaciones, ciberseguridad  y todo lo relacionado con las tecnologías.
+ <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>¡Hola! Soy Sergio, estudiante de Informática.
 
-🔐 Actualmente estoy profundizando mis conocimientos en seguridad informática y explorando herramientas para el desarrollo web.
+<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> Me apasiona la programación, el desarrollo de aplicaciones, ciberseguridad  y todo lo relacionado con las tecnologías.
 
-⚽ Fuera del mundo del código, amante de las motos y los deportes.
+<img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>Actualmente estoy profundizando mis conocimientos en seguridad informática y explorando herramientas para el desarrollo web.
 
-🚀 Siempre con ganas de aprender algo nuevo y mejorar día a día, tanto en lo profesional como en lo personal.
+<img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>Fuera del mundo del código, amante de las motos y los deportes.
+
+<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>Siempre con ganas de aprender algo nuevo y mejorar día a día, tanto en lo profesional como en lo personal.
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <h2 align="center" style="margin: 10px;">Languages and Tools:</h2>
